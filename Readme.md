@@ -1,0 +1,12 @@
+Here we learn to use itertools module to maipulate Python iterables in shorter code.
+itertools.product()
+itertools.compress()
+itertools.groupby()
+itertools.combinations()
+itertools.permutations()
+itertools.accumalate()
+itertools.repeat()
+itertools.filter()
+itertools.pairwise()
+itertools.takewhile()
+itertools.dropwhile()
